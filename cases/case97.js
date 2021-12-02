@@ -10,9 +10,13 @@ const sendPost = async (investigationId, plaintext) => {
       body: JSON.stringify({ answer: plaintext }),
     }
   );
-  const content = await raw_reponse.json();
-  console.log(content);
+  if (raw_reponse.status === 200) {
+    const content = await raw_reponse.json();
+    console.log(content);
+  }
 };
 
 const plaintext = "sdspqocvwgkfmq";
-//const 
+const investigationId = "bf7ee724-d2df-496c-bad2-ef7d0de84c28";
+
+sendPost(investigationId, plaintext);
