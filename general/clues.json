@@ -19,5 +19,15 @@
       "investigationParameters": "{\"nth element\":\"4\"}",
       "attemptsRemaining": "1",
       "outcome": "170cm+"
+  },
+  "83": {
+    "id": "caee68aa-4528-4fb8-a934-19095a66aefe",
+    "investigation": "Find all the primes between the start and end index (both inclusive)",
+    "investigationParameters": "{\"start\":31328,\"end\":31428}",
+    "attemptsRemaining": "1",
+    "outcome": "Joods"
   }
+    
+  
+
 }
