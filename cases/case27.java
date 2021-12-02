@@ -18,13 +18,13 @@ public class case27 {
             }
             number++;
         }
-        System.out.println(perfect_numbers.get(3));
+        System.out.println(perfect_numbers);
 
     }
 
     public int sum_dividers(int number) {
         int sum = 1;
-        for (int div = 2; div <= number % 2; div++) {
+        for (int div = 2; div <= number / 2; div++) {
             if (number % div == 0)
                 sum += div;
         }

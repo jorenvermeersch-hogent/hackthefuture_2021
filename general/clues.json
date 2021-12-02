@@ -12,5 +12,12 @@
     "investigationParameters": "{\"index\":\"8\",\"arrayList\":\"[pmk, mPnS, P3ML, sLAy, kXQ, ab80, SbM, bh6, PB6, 65p]\",\"replacement\":\"P99p\"}",
     "attemptsRemaining": "1",
     "outcome": "Bruin/zwart Haar"
+  },
+  "27": {
+      "id": "7cf1bd2d-d868-4820-88be-feb105515959",
+      "investigation": "What is the Perfect Number in the nth position (1-based)?",
+      "investigationParameters": "{\"nth element\":\"4\"}",
+      "attemptsRemaining": "1",
+      "outcome": "170cm+"
   }
 }
