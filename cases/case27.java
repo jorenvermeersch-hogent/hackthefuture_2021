@@ -3,10 +3,10 @@ package cases;
 import java.util.ArrayList;
 import java.util.List;
 
-public class case4 {
+public class case27 {
 
     public static void main(String[] args) {
-        new case4().run();
+        new case27().run();
     }
 
     public void run() {
