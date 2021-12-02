@@ -1,0 +1,103 @@
+{
+    "caseId": "dc0dc0f7-1786-48d6-bf3c-54220d61c705",
+    "investigations": [
+      {
+        "id": "a26d2b2c-c772-4256-ae79-8cb34a42f1a6",
+        "investigation": "Brute force the password. It can contain upper/lowercase alphanumeric characters",
+        "investigationParameters": "",
+        "attemptsRemaining": "Unlimited",
+        "outcome": null
+      },
+      {
+        "id": "77ec9232-4fbf-4199-83ad-2308585c73c1",
+        "investigation": "Convert the following String to hexadecimal value (Use a space delimiter between values)",
+        "investigationParameters": "wwc82CeEDvDEQzjtdA",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "aa0d1865-68e6-44df-9fb7-f4719de241c0",
+        "investigation": "Reverse the following String",
+        "investigationParameters": "YhSswSGxgm0TsxdMDSONBTSTa6YPbbEzGDBpxMny2OVHUMZ2wZ8n6aLCsvWvrcAAVjjQo2d5mvPsfMTopHFb7c9GaRzp8CDUCrVhDzQ44eHeweNs3ObT7bMniHWhdA",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "7cf1bd2d-d868-4820-88be-feb105515959",
+        "investigation": "What is the Perfect Number in the nth position (1-based)?",
+        "investigationParameters": "{\"nth element\":\"4\"}",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "de5d9301-131d-4e50-b925-b96ee7d75abb",
+        "investigation": "Is the following string in alphabetical order? (Use N or Y as answer)",
+        "investigationParameters": "T4amo0xQcXm1EnmexN5gFXFpiXkOT1hgdsBaCT2dOUVdXWtcLWWjnliBv",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "0dc58790-2021-4b81-9e3e-e0504c7c0524",
+        "investigation": "Return element at index of the given hashmap",
+        "investigationParameters": "{\"index\":\"1\",\"hashmap\":\"{1=R7Ei, 2=j3q, 3=4TRZ, 4=kIe, 5=7GH}\"}",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "92f3f153-75db-4b0d-b36a-61161ad8da08",
+        "investigation": "Answer is the first and last day of the month (MONDAY - SUNDAY) eg: MONDAY-FRIDAY",
+        "investigationParameters": "{\"month\":\"2\",\"year\":\"1998\"}",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "ff9afb51-c764-44e5-8c46-d53a36657ea6",
+        "investigation": "Decode the following String. It uses a quite common encoding, find out which!",
+        "investigationParameters": "NVJURnlxYzNYQlp6OUJ0VDBYZVY1V0thTXRFcHozSU4=",
+        "attemptsRemaining": "10",
+        "outcome": null
+      },
+      {
+        "id": "bdce71ef-e0a5-4981-9afc-b83af8532026",
+        "investigation": "Replace string at given index in arraylist",
+        "investigationParameters": "{\"index\":\"8\",\"arrayList\":\"[pmk, mPnS, P3ML, sLAy, kXQ, ab80, SbM, bh6, PB6, 65p]\",\"replacement\":\"P99p\"}",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "267b270f-86fb-463c-9e57-d5de9815510a",
+        "investigation": "Find the missing numbers in the sequence. Return them as a comma-separated string",
+        "investigationParameters": "[0,1,2,3,13,21,34,55,89,144,233,377,610,987,2584,4181,0,1,1,3,8,13,21,34,55,144,377,610,987,1597,2584,4181,0,2,5,8,13,21,34,55,89,144,233,377,610,1597,4181,0,1,2,3,5,8,13,21,34,89,233,377,610,987,1597,4181,0,1,1,3,8,13,21,34,55,89,144,987,1597,2584,4181,0,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,4181,1,1,3,5,8,13,21,34,55,89,233,377,610,987,2584,4181,0,1,1,2,3,5,13,21,34,89,144,233,377,987,2584,4181,0,1,2,3,5,8,13,34,55,89,144,233,377,610,2584,4181,0,1,1,2,5,8,21,34,89,144,233,377,987,1597,2584,4181,0,1,1,3,5,13,21,55,89,144,610,987,1597,2584,4181,0,1,1,2,3,8,13,55,89,233,377,610,1597,2584,4181,0,1,1,2,3,5,13,21,34,55,89,610,987,1597,2584,4181,0,1,1,3,5,8,21,55,89,144,233,377,610,2584,4181,0,1,2,3,8,13,55,89,233,377,610,987,1597,2584,4181,0,1,2,3,5,13,21,55,89,144,233,377,987,1597,2584,4181,1,2,3,8,13,21,34,55,89,144,233,610,987,1597,2584,4181]",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "89471b66-3425-4b50-8873-f6b4e7c02ea1",
+        "investigation": "Decode the following string",
+        "investigationParameters": "-.-. -.-- -... --.- -.-. -.-. -. ...- .-.. --.- -.-.",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "caee68aa-4528-4fb8-a934-19095a66aefe",
+        "investigation": "Find all the primes between the start and end index (both inclusive)",
+        "investigationParameters": "{\"start\":31328,\"end\":31428}",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "8aa5d668-9f2d-47d7-a505-57c4b324d0f0",
+        "investigation": "Is the following number a Disarium Number? (Use N or Y as answer)",
+        "investigationParameters": "69",
+        "attemptsRemaining": "1",
+        "outcome": null
+      },
+      {
+        "id": "bf7ee724-d2df-496c-bad2-ef7d0de84c28",
+        "investigation": "The following string is encrypted with an ancient algorithm, invented in one of the mightiest empires of all time.Tip: one of the leaders of this empire.",
+        "investigationParameters": "rcropnbuvfjelp",
+        "attemptsRemaining": "Unlimited",
+        "outcome": null
+      }
+    ]
+  }
