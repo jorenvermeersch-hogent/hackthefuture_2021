@@ -12,6 +12,7 @@ public class case97 {
 
         for (int shift = 1; shift < alphabet.length(); shift++) {
             System.out.println(caesar(encrypted, shift));
+            // do een post.
         }
     }
 
