@@ -9,11 +9,15 @@ public class case13 {
 
     public void run() {
         String input = "wwc82CeEDvDEQzjtdA";
-        String[] encodings = new String[] { "UTF-8", "UTF-16BE", "UTF-16LE", "UTF-16", "US-ASCII", "ISO-8859-1" };
+        StringBuilder output = new StringBuilder();
 
-        for (String enc : encodings) {
-            System.out.println(toHex(input, enc));
+        for (char letter : input.toCharArray()) {
+            output.append(toHex(letter + "", "UTF-8") + " ");
         }
+
+        String hex_code = output.toString().trim();
+        System.out.println(hex_code);
+
     }
 
     public String toHex(String arg, String charsetName) {
