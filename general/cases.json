@@ -20,7 +20,8 @@
         "investigation": "Reverse the following String",
         "investigationParameters": "YhSswSGxgm0TsxdMDSONBTSTa6YPbbEzGDBpxMny2OVHUMZ2wZ8n6aLCsvWvrcAAVjjQo2d5mvPsfMTopHFb7c9GaRzp8CDUCrVhDzQ44eHeweNs3ObT7bMniHWhdA",
         "attemptsRemaining": "1",
-        "outcome": null
+        "outcome": null,
+        "done": true
       },
       {
         "id": "7cf1bd2d-d868-4820-88be-feb105515959",
