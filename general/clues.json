@@ -25,7 +25,7 @@
     "investigation": "Find all the primes between the start and end index (both inclusive)",
     "investigationParameters": "{\"start\":31328,\"end\":31428}",
     "attemptsRemaining": "1",
-    "outcome": "Joods"
+    "outcome": "Miljardair"
   },
   "75": {
     "id": "89471b66-3425-4b50-8873-f6b4e7c02ea1",
@@ -33,5 +33,12 @@
     "investigationParameters": "-.-. -.-- -... --.- -.-. -.-. -. ...- .-.. --.- -.-.",
     "attemptsRemaining": "1",
     "outcome": "Twitter Verified"
+  },
+  "90": {
+    "id": "8aa5d668-9f2d-47d7-a505-57c4b324d0f0",
+    "investigation": "Is the following number a Disarium Number? (Use N or Y as answer)",
+    "investigationParameters": "69",
+    "attemptsRemaining": "1",
+    "outcome": "IT"
   }
 }

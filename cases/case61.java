@@ -9,6 +9,6 @@ public class case61 {
         List<String> lijst = new ArrayList<String>(Arrays.asList("pmk", "mPnS", "P3ML", "sLAy", "kXQ", "ab80", "SbM", "bh6", "PB6","65p"));
         System.out.println(lijst); //pitch
         lijst.set(8, "P99p");
-        System.out.println(lijst); //pitch
+        System.out.println(lijst); //pitch ["","","","",""]
     }
 }
